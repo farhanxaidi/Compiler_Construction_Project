@@ -1,0 +1,17 @@
+int,Keyword
+main_,identifier
+(,(
+),)
+{,{
+int,Keyword
+var_,identifier
+=,=
+10,number
+;,;
+if,Keyword
+(,(
+v_,identifier
+),)
+{,{
+},}
+},}
